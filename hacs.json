@@ -1,0 +1,7 @@
+{
+  "name": "Base RTK",
+  "content_in_root": false,
+  "domains": ["base_rtk"],
+  "country": "FR",
+  "render_readme": true
+}
