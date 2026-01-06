@@ -6,3 +6,4 @@ DEFAULT_NAME = "Base RTK"
 
 DEFAULT_SCAN_INTERVAL = 10  # seconds
 DEFAULT_TIMEOUT = 5  # seconds
+PLATFORMS = ["sensor", "binary_sensor"]
