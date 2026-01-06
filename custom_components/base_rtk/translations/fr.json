@@ -3,6 +3,7 @@
     "step": {
       "user": {
         "title": "Base RTK",
+        "description": "Saisis le nom DNS (ex: base.lan) ou l'IP de la base.",
         "data": { "host": "Hôte" }
       }
     }
